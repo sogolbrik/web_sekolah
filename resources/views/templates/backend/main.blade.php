@@ -100,7 +100,6 @@
             </div>
         </div>
         <!-- End Sidebar -->
-
         <div class="main-panel">
             <div class="main-header">
                 <div class="main-header-logo">
